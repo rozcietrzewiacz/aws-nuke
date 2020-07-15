@@ -3,7 +3,6 @@ package config
 import (
 	"fmt"
 	"io/ioutil"
-	"strings"
 
 	"github.com/rebuy-de/aws-nuke/pkg/types"
 
